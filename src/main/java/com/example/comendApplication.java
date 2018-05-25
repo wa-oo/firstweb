@@ -35,8 +35,6 @@ public class comendApplication {
 			return names;
 		}
 	
-
-	
 //	@Component
 //	public class MyBean {
 //
